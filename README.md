@@ -15,7 +15,7 @@ The objective is to generate insights that can improve visitor satisfaction, ide
 The analysis leverages IBM's Granite-3.3-8b LLM model through Replicate's API to perform sophisticated sentiment analysis and thematic extraction from review texts.
 
 ### Dataset
-Source: Google Maps Hotel Reviews (self-collected)
+Source: Google Maps Gunung Bromo Reviews (self-collected)
 Format: .xlsx (Excel spreadsheet)
 Access: Loaded directly into Google Colab as a local file
 
