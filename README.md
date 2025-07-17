@@ -1,6 +1,6 @@
 # Capstone-GBromo-IBMxHACKTIV8
 
-## Gunung Bromo Visitor Sentiment Analysis Project using IBM Granite LLM
+## Gunung Bromo Visitor Sentiment Analysis using IBM Granite LLM
 
 This project explores how tourists experience Gunung Bromo, one of Indonesia’s most iconic natural destinations, by analyzing publicly available Google Maps reviews using artificial intelligence.
 
